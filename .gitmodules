@@ -1,0 +1,3 @@
+[submodule "APlayer"]
+	path = APlayer
+	url = /vagrant/toay/static/public/frame/APlayer
